@@ -1,0 +1,2 @@
+# Physics-Informed-Foundation-Model-for-Squared-Amplitude-Calculation
+Physics-informed ML pipeline for symbolic amplitude modeling: Task 1.2 preprocessing (load, clean, index normalization, tokenization, vocab, encoding, split) + Task 2 Transformer training/evaluation. Includes BLEU/exact-match metrics, readable predictions, loss history/plot, automated tests, and final report export for reproducible experiments.
